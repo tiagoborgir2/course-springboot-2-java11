@@ -15,7 +15,6 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 import com.educandoweb.course.entities.enuns.OrderStatus;
-import com.educandoweb.course.entities.pk.OrderItem;
 import com.fasterxml.jackson.annotation.JsonFormat;
 
 @Entity
